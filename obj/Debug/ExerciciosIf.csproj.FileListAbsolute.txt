@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\marcosbanjos\ExerciciosIf\bin\Debug\ExerciciosIf.exe.config
+C:\Users\Aluno\Desktop\marcosbanjos\ExerciciosIf\bin\Debug\ExerciciosIf.exe
+C:\Users\Aluno\Desktop\marcosbanjos\ExerciciosIf\bin\Debug\ExerciciosIf.pdb
+C:\Users\Aluno\Desktop\marcosbanjos\ExerciciosIf\obj\Debug\ExerciciosIf.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\marcosbanjos\ExerciciosIf\obj\Debug\ExerciciosIf.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\marcosbanjos\ExerciciosIf\obj\Debug\ExerciciosIf.exe
+C:\Users\Aluno\Desktop\marcosbanjos\ExerciciosIf\obj\Debug\ExerciciosIf.pdb
